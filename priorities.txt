@@ -1,0 +1,10 @@
+1:
+    - help feature with info/directions (in menu on top?)
+    - HOTkeys
+
+2:
+
+3:
+    - see if any look and feel looks good everywhere
+    - compile to binary or an executable (.jar?)
+    - PDA
